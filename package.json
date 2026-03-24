@@ -1,0 +1,17 @@
+{
+  "name": "fluent-dom-attribute-with-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@fluent/bundle": "^0.19.1",
+    "@fluent/dom": "^0.10.2"
+  }
+}
